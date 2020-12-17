@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.project.model.Admin"/>
+    <fullyQualifiedTypeName name="com.project.proxy.UserWishlistServiceImplProxy"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.FeignClient"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.ribbon.RibbonClient"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+    <fullyQualifiedTypeName name="com.project.proxy.UserServiceImplProxy"/>
+    <fullyQualifiedTypeName name="com.project.exception.SongNotFoundException"/>
+    <fullyQualifiedTypeName name="com.project.proxy.SongServiceProxy"/>
+    <fullyQualifiedTypeName name="com.project.model.UserWishlist"/>
+    <fullyQualifiedTypeName name="com.project.model.Song"/>
+    <fullyQualifiedTypeName name="com.project.model.User"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.zuul.EnableZuulProxy"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.EnableDiscoveryClient"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.EnableFeignClients"/>
+</qualifiedTypeNameHistroy>
